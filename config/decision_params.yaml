@@ -1,0 +1,13 @@
+/**:
+  ros__parameters:
+    # 决策参数
+    hp_threshold: 300
+    ammo: 50
+    time_on_B: 10
+    time_on_C: 15
+
+    # 位置参数 [x, y, theta]
+    goto_A_pos: [1.0, 2.0, 0.0]
+    goto_B_pos: [5.0, 0.0, 0.0]
+    goto_C_pos: [5.0, -5.0, 0.0]
+    home_pos: [0.0, 0.0, 0.0]
